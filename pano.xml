@@ -5,7 +5,8 @@
     <level height="480" width="480" preload="1" predecode="1"/>
     <preview color="0x808080" strip="1"/>
     <video targetview="" startonload="1" startmutedmobile="0" endaction="loop" format="equirectangular">
-      <source url="videos/만족스러운 대화 Satisfying Talk (test_V2).mp4"/>
+<!--       <source url="videos/만족스러운 대화 Satisfying Talk (test_V2).mp4"/> -->
+      <source url="https://youtu.be/tKNogmJHtjU">
     </video>
   </input>
   <view fovmode="0" pannorth="0">
